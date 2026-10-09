@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Equilibrio Natural: Tés Herbales para tu Ciclo</title>
+<style>
+  body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: #faf7f2;
+    color: #4a4a4a;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+  }
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 20px;
+  }
+  h1 {
+    font-size: 2.5rem;
+    color: #2e4a3b; /* Verde salvia oscuro */
+    text-align: center;
+    line-height: 1.2;
+    margin-bottom: 10px;
+  }
+  h2 {
+    font-size: 1.8rem;
+    color: #2e4a3b;
+    margin-top: 30px;
+    margin-bottom: 15px;
+  }
+  p {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+  }
+  .highlight {
+    color: #b85c5c; /* Rosa terracota */
+    font-weight: bold;
+  }
+  .hero-img {
+    width: 100%;
+    max-width: 500px;
+    display: block;
+    margin: 30px auto;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  }
+  .cta-button {
+    display: block;
+    width: 100%;
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #b85c5c; /* Rosa terracota */
+    color: #ffffff;
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 50px;
+    box-shadow: 0 5px 15px rgba(184, 92, 92, 0.4);
+    transition: all 0.3s ease;
+  }
+  .cta-button:hover {
+    background-color: #9e4a4a;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(184, 92, 92, 0.6);
+  }
+  .benefits-list {
+    list-style: none;
+    padding: 0;
+  }
+  .benefits-list li {
+    background-color: #ffffff;
+    margin-bottom: 15px;
+    padding: 15px 20px;
+    border-radius: 10px;
+    border-left: 5px solid #8ca89a; /* Verde salvia */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  }
+  .guarantee {
+    background-color: #eef3ef;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 40px;
+    border: 1px dashed #8ca89a;
+  }
+  .footer {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 0.9rem;
+    color: #888;
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  
+  <h1>Recupera tu Equilibrio Hormonal de Forma Natural</h1>
+  <p style="text-align: center; font-size: 1.2rem; color: #666;">El sistema completo de tés herbales, diario de seguimiento y recetas para cada fase de tu ciclo.</p>
+  
+  <!-- Reemplaza esta URL con la imagen de tu portada final -->
+  <img src="AQUI_VA_LA_URL_DE_TU_PORTADA.jpg" alt="Equilibrio Natural: Tu Ciclo en Armonía" class="hero-img">
+
+  <h2>¿Te sientes agotada, con cólicos o con cambios de humor?</h2>
+  <p>No estás sola. Millones de mujeres sufren cada mes por desequilibrios hormonales. La buena noticia es que la naturaleza tiene el poder de ayudarte a recuperar tu bienestar.</p>
+  <p>He creado <span class="highlight">"Equilibrio Natural"</span>, un Workbook práctico y visual que te guía paso a paso para usar el poder de las plantas medicinales a tu favor.</p>
+
+  <h2>¿Qué encontrarás dentro?</h2>
+  <ul class="benefits-list">
+    <li>📖 <strong>31 Recetas de Tés Herbales</strong> organizadas por fase de tu ciclo (Menstrual, Folicular, Ovulación y Lútea).</li>
+    <li>📊 <strong>Infografía Visual:</strong> Aprende qué hierba tomar, su dosis exacta y sus contraindicaciones.</li>
+    <li>📝 <strong>Diario de Semáforo Hormonal:</strong> Un sistema de 31 días para registrar tus síntomas y descubrir tus patrones.</li>
+    <li>🧠 <strong>Quiz Interactivo:</strong> Pon a prueba tu sabiduría hormonal y recibe retroalimentación.</li>
+    <li>🎧 <strong>Audio Guía de Relajación:</strong> Un bonus para acompañar tus rituales de té.</li>
+  </ul>
+
+  <h2>Una inversión en tu bienestar</h2>
+  <p>Olvídate de gastar en suplementos costosos o citas médicas innecesarias. Con esta guía, tendrás el conocimiento ancestral de las plantas en la palma de tu mano.</p>
+  
+  <div style="text-align: center; margin: 30px 0;">
+    <p style="font-size: 1.2rem; text-decoration: line-through; color: #999;">Precio normal: $47.00</p>
+    <p style="font-size: 2rem; font-weight: bold; color: #b85c5c;">Hoy: $27.85 USD</p>
+  </div>
+
+  <!-- Reemplaza el enlace de abajo con el link de pago de DG Store24 -->
+  <a href="AQUI_VA_EL_LINK_DE_PAGO_DE_DG_STORE24" class="cta-button">¡Quiero mi Guía Ahora!</a>
+
+  <div class="guarantee">
+    <h3>🛡️ Garantía de Satisfacción</h3>
+    <p>Estoy tan segura de que este Workbook te ayudará, que si en 30 días no notas la diferencia, te devuelvo el 100% de tu dinero. Sin preguntas incómodas.</p>
+  </div>
+
+  <div class="footer">
+    <p>© 2026 Equilibrio Natural. Todos los derechos reservados.</p>
+    <p>Este producto es informativo y no sustituye el consejo médico profesional.</p>
+  </div>
+
+</div>
+
+</body>
+</html>
